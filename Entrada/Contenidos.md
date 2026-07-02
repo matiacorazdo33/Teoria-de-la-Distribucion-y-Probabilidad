@@ -54,7 +54,7 @@
 ---
 
 ## 🎓 Bitacora
-  👉 [Ver documento](https://drive.google.com/file/d/1Pg4gDFsgqCSuD_8ZDPGWIqifrSc5O49v/view?usp=sharing)
+  👉 [Ver documento](../Entrada/Bitacora)
 
 ---
 
