@@ -10,27 +10,46 @@
 
 # 🧠 Unidad 2
 
+---
+
 ## 👨‍🏫 Trabajos de Aprendizaje en Practico Experimental 
-- 🔢 **APE06:** Distribuciones Continuas Notables.
+- 🧩 **APE06:** Distribuciones Continuas Notables.
+  
   👉 [Ver documento](../APES/APE_006_Normal.ipynb) 
 
 
-- 🔗 **ACD2:** Implicaciones, equivalencias y razonamiento deductivo  
-  👉 [Ver documento](https://drive.google.com/file/d/129h8e-7p-BO1pO-wVtAazdmwJYzm0ERx/view?usp=sharing)
+- 🧩 **APE07:** Distribuciones Muestrales y Teorema del Límite Central (TLC) mediante Simulación Estocástica
+  
+  👉 [Ver documento](../APES/APE_007_TLC.ipynb)
+  
+
+- 🧩 **APE08:** Inferencia Estadística: Estimación de Parámetros e Intervalos de Confianza (Z y T de Student)
+  
+  👉 [Ver documento](../APES/APE_008_Intervalos.ipynb)
+
+
+- 🧩 **APE09:** Inferencia Estadística: Pruebas de Hipótesis Paramétricas (Z y T) y Análisis del Valor-p
+ 
+  👉 [Ver documento](../APES/APE_009_Hipotesis_GrupoG.ipynb) 
+
+
+- 🧩 **APE10:** Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey)
+ 
+  👉 [Ver documento](../APES/APE_010_DosMuestras.ipynb)
+
 
 ---
 
-## 🧪 Trabajos de Aprendizaje Práctico Experimental  
-- 🧩 **APE:** Resolución de ejercicios  
+## 🧪 Documento tecnico  
+- 🔢 **APE:** Resolución de ejercicios  
   👉 [Ver documento](https://drive.google.com/file/d/1MwIKQRllvjW4UpqAs2OECMxjwX8D1cCb/view?usp=sharing)
 
 ---
 
-## 🎓 Trabajos de Aprendizaje Autónomo  
-- 📖 **AA1:** Lectura y ejercicios  
+## 🎓 Bitacora
   👉 [Ver documento](https://drive.google.com/file/d/1Pg4gDFsgqCSuD_8ZDPGWIqifrSc5O49v/view?usp=sharing)
 
-- 🗃️ **AA2:** Portafolio de Matemáticas Discretas  
-  👉 [Ver documento](../Entrada/Caratula.md)
-
 ---
+  👉 [Ver Caratula 📝](../Entrada/Caratula.md)
+
+
