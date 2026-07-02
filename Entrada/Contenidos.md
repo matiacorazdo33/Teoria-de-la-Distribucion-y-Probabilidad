@@ -11,8 +11,8 @@
 # 🧠 Unidad 2
 
 ## 👨‍🏫 Trabajos de Aprendizaje en Practico Experimental 
-- 🔢 **APE00:** Lógica Fundamentos de Probabilidad y Espacios Muestrales 
-  👉 [Ver documento](https://drive.google.com/file/d/1yyxjsc_-zXH_lDo0AAPiJ1rnwLdbqItU/view?usp=sharing)
+- 🔢 **APE06:** Distribuciones Continuas Notables.
+  👉 [Ver documento](../APES/APE_06_Normal.ipynb)
 
 
 - 🔗 **ACD2:** Implicaciones, equivalencias y razonamiento deductivo  
