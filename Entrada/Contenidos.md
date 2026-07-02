@@ -49,7 +49,7 @@
 
 - 🔢 **Dataset:**
     
-  👉 [Ver documento](../Entrada/datos_Loja.csv)
+  👉 [Ver documento](../Entrada/datos_loja.csv)
 
 ---
 
