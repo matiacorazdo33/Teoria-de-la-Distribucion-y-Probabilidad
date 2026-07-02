@@ -54,7 +54,7 @@
 ---
 
 ## 🎓 Bitacora
-  👉 [Ver documento](../Entrada/Bitacora)
+  👉 [Ver documento](../Entrada/Bitacora.md)
 
 ---
 
