@@ -1,7 +1,7 @@
 # 💻 Teoria de la Distribucion y Probabilidad
 ---
 
-## 📘 Portafolio Digital de Aprendizaje
+## 📘 Portafolio Digital Sistematizado
 ---
 
 ## 🗂️ [Carátula](../Entrada/Caratula.md)
@@ -41,8 +41,15 @@
 ---
 
 ## 🧪 Documento tecnico  
-- 🔢 **APE:** Resolución de ejercicios  
-  👉 [Ver documento](https://drive.google.com/file/d/1MwIKQRllvjW4UpqAs2OECMxjwX8D1cCb/view?usp=sharing)
+- 🔢 **Documento:**
+  
+  👉 [Ver documento](../Entrada/Componente1.ipynb)
+
+
+
+- 🔢 **Dataset:**
+    
+  👉 [Ver documento](../Entrada/datos_Loja.csv)
 
 ---
 
@@ -50,6 +57,4 @@
   👉 [Ver documento](https://drive.google.com/file/d/1Pg4gDFsgqCSuD_8ZDPGWIqifrSc5O49v/view?usp=sharing)
 
 ---
-  👉 [Ver Caratula 📝](../Entrada/Caratula.md)
-
 
