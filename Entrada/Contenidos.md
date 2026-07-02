@@ -12,7 +12,7 @@
 
 ## 👨‍🏫 Trabajos de Aprendizaje en Practico Experimental 
 - 🔢 **APE06:** Distribuciones Continuas Notables.
-  👉 [Ver documento](../APES/APE_06_Normal.ipynb)
+  👉 [Ver documento](../APES/APE_006_Normal.ipynb) 
 
 
 - 🔗 **ACD2:** Implicaciones, equivalencias y razonamiento deductivo  
