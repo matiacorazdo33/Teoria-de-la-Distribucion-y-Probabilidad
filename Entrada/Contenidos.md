@@ -84,8 +84,8 @@
 
 ---
 
-## 🧪 Documento tecnico  
-- 🔢 **Documento:**
+## 🧪 Evaluacion sumativa unidad 02  
+- 📄 **Documento:**
   
   👉 [Ver documento](../Entrada/Componente1.ipynb)
 
@@ -95,10 +95,16 @@
     
   👉 [Ver documento](../Entrada/datos_loja.csv)
 
+
+
+- 🎥 **Video:**
+    
+  👉 [Ver video](https://drive.google.com/file/d/1jbYCiG4WMtqhksHU0eBNJxtA35Jy_d12/view?usp=sharing)
+
+
+- 🎓 Bitacora
+  
+  👉 [Ver bitacora](../Entrada/Bitacora.md)
+ 
+
 ---
-
-## 🎓 Bitacora
-  👉 [Ver documento](../Entrada/Bitacora.md)
-
----
-
