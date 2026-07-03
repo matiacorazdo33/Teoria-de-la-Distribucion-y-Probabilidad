@@ -37,7 +37,7 @@
   
   👉 [Ver documento](https://drive.google.com/file/d/11CVAa2dR97OLYzAQr5WohaSwpGb_SJEf/view?usp=sharing)
 
-  👉 [Ver archivo](../APES/APE2.ipynb)
+  👉 [Ver archivo](../APES/variable_aleatoria_discreta.ipynb)
 
 
 
