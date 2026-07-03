@@ -8,7 +8,7 @@
 
 ---
 
-# 🧠 Unidad 2
+# 🧠 APES Unidad 1
 
 ---
 
@@ -52,6 +52,11 @@
   👉 [Ver documento](../APES/APE_006_Distribuciones.ipynb)
 
 
+  ---
+
+# 🧠 APES Unidad 2
+
+---
 
 - 🧩 **APE06:** Distribuciones Continuas Notables
   
