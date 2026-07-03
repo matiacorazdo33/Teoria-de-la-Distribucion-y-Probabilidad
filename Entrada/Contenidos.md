@@ -28,7 +28,16 @@
 - 🧩 **APE02:** Variables Aleatorias y Distribuciones de Probabilidad
   
   👉 [Ver documento](https://drive.google.com/file/d/1UiaGALy1YU6nGD4udnYKyljHzz4k6rfW/view?usp=sharing)
-  👉 [Ver archivo]
+  
+  👉 [Ver archivo](../APES/APE2.ipynb)
+
+
+
+- 🧩 **APE03:** Variables Aleatorias Discretas y Continuas
+  
+  👉 [Ver documento](https://drive.google.com/file/d/11CVAa2dR97OLYzAQr5WohaSwpGb_SJEf/view?usp=sharing)
+
+  👉 [Ver archivo](../APES/APE2.ipynb)
 
 
 
