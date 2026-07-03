@@ -43,7 +43,13 @@
 
 - 🧩 **APE04:** Momentos Estadísticos y Análisis de Tendencia Central con Python
   
-  👉 [Ver documento](https://drive.google.com/file/d/1Uwj4rNS1phxuu5_KAJyJ0xDEnIVVtdBV/view?usp=sharing)
+  👉 [Ver documento](../APES/APE_04_Momentos.ipynb)
+
+
+
+- 🧩 **APE05:** Distribuciones Discretas Notables
+  
+  👉 [Ver documento](../APES/APE_04_Momentos.ipynb)
 
 
 
