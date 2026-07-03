@@ -49,7 +49,7 @@
 
 - 🧩 **APE05:** Distribuciones Discretas Notables
   
-  👉 [Ver documento](../APES/APE_04_Momentos.ipynb)
+  👉 [Ver documento](../APES/APE_006_Distribuciones.ipynb)
 
 
 
