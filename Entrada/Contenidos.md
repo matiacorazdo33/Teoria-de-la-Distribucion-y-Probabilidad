@@ -25,7 +25,7 @@
 
 
 
-- 🧩 **APE02:** Variables Aleatorias y Distribuciones de Probabilidad
+- 🧩 **APE02:** Distribuciones Muestrales y Teorema del Limite Central
   
   👉 [Ver documento](https://drive.google.com/file/d/1UiaGALy1YU6nGD4udnYKyljHzz4k6rfW/view?usp=sharing)
   
@@ -38,6 +38,12 @@
   👉 [Ver documento](https://drive.google.com/file/d/11CVAa2dR97OLYzAQr5WohaSwpGb_SJEf/view?usp=sharing)
 
   👉 [Ver archivo](../APES/variable_aleatoria_discreta.ipynb)
+
+
+
+- 🧩 **APE04:** Momentos Estadísticos y Análisis de Tendencia Central con Python
+  
+  👉 [Ver documento](https://drive.google.com/file/d/1Uwj4rNS1phxuu5_KAJyJ0xDEnIVVtdBV/view?usp=sharing)
 
 
 
